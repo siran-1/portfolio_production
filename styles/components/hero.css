@@ -16,7 +16,7 @@
 }
 
 .hero__title_div{
-    margin-top: 1em;
+    margin-top: 1.5em;
     text-align: center;
     font-family: recoleta-normal, Neuehaa,"Open sans", "Arial", sans-serif;
 }
@@ -33,7 +33,7 @@
 }
 
 .hero__description_div{
-    margin-top: 1em;
+    margin-top: 1.5em;
 }
 
 /* xs */

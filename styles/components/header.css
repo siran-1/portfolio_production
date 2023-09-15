@@ -35,6 +35,9 @@
     font-size:var(--size-base);
     text-decoration:none;
     color: var(--Black);
+    background-color: var(--light-background);
+    border-radius: 1em;
+    padding:0.4rem 0.7rem 0.4rem 0.7rem;
 }
 
 .mode-switch{

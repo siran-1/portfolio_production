@@ -97,5 +97,9 @@ button {
     src: url(././fonts/GraphikBold.otf);
 }
 
+@font-face {
+    font-family: recoleta-normal;
+    src: url(././fonts/Recoleta-RegularDEMO.otf);
+}
 
 /*# sourceMappingURL=portfolio_blog_input_style.css.map */

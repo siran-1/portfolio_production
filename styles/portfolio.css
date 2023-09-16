@@ -102,4 +102,9 @@ button {
     src: url(././fonts/Recoleta-RegularDEMO.otf);
 }
 
+@font-face {
+    font-family: code-next-bold;
+    src: url(././fonts/CodeNext-Trial-Black.ttf);
+}
+
 /*# sourceMappingURL=portfolio_blog_input_style.css.map */
